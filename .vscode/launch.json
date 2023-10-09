@@ -8,7 +8,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open Registro.html",
-            "file": "c:\\Users\\MINEDUCYT\\Documents\\Crud\\Inicio.html"
+            "file": "c:\\Users\\MINEDUCYT\\Documents\\Crud\\.vscode\\UI\\Inicio.html"
         }
     ]
 }
